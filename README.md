@@ -1,3 +1,32 @@
+> Comentarios
+
+Analista: **Roberto Souza**
+
+1. **Arquivos**  
+   *./notebook/TesteSX.ipynb* - Notebook Python  
+   *./arquivos/TABLES.sql* - Tabelas SQL  
+   *./pdf/Model.pdf* - Arquivo PDF da modelagem  
+   *./pdf/PBI_SX.pdf* - Extração em PDF do dashboard criado no PowerBI  
+   *./arquivos/testeSX.pbix* - Arquivo PowerBI  
+
+3. **Respostas**  
+   Todas as perguntas foram respondidas no notebook;  
+   
+4. **Insights**  
+*Insights tidos através dos dados e visualizações*:  
+a. Pais do grupo 4 e 5 tem as melhores médias. Sendo que, os mais inscritos tem o pai no grupo 2 e 3;  
+b. 71,4% dos inscritos tem a renda abaixo de R$ 2090,00. 1233 destes se ausentaram;  
+c. Retirando os que não responderam, os que tiveram mães que não completaram o 5º ano do ensino fundamental, tem as piores médias;  
+d. Quase 2500 inscritos moram com 03 ou 04 pessoas na mesma residencia;  
+e. Quem estudou em ensino privado obtiveram as melhores médias;  
+f. Os mais novos detem as melhores medias;  
+g. Dos 05 com maiores notas gerais, 03 tiraram as maiores notas em redação. Destes 05, 03 são do sexo masculino e 2 feminino, todos solteiros. E Linguagens e Códigos foi a prova na qual todos eles tiraram a menor nota dentre as outras;  
+h. Os que tem mais computadores em casa, tiraram maior média;  
+i. Sobre os que tem o pai no grupo 2: tiveram 1228 inscritos, 407 ausentes; maior nota 3963 e redação 643,34 (ambos acima da média geral);  
+j. Inscrito que mais pontuou, foi do sexo feminino e reside no CE.  
+
+---
+
 # Teste de Analista de Dados
 Critérios avaliadas:
 - Docker;
@@ -53,8 +82,6 @@ o comportamento das notas 4 provas vs. estes dados.
 4. Power Point.
 5. Excel.
 6. Colab.
-
-
 
 
 
